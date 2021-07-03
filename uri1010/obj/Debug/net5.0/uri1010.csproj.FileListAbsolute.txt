@@ -1,0 +1,16 @@
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.csproj.AssemblyReference.cache
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.AssemblyInfoInputs.cache
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.AssemblyInfo.cs
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.csproj.CoreCompileInputs.cache
+D:\ExerciciosVisualCSharp\uri1010\bin\Debug\net5.0\uri1010.exe
+D:\ExerciciosVisualCSharp\uri1010\bin\Debug\net5.0\uri1010.deps.json
+D:\ExerciciosVisualCSharp\uri1010\bin\Debug\net5.0\uri1010.runtimeconfig.json
+D:\ExerciciosVisualCSharp\uri1010\bin\Debug\net5.0\uri1010.runtimeconfig.dev.json
+D:\ExerciciosVisualCSharp\uri1010\bin\Debug\net5.0\uri1010.dll
+D:\ExerciciosVisualCSharp\uri1010\bin\Debug\net5.0\ref\uri1010.dll
+D:\ExerciciosVisualCSharp\uri1010\bin\Debug\net5.0\uri1010.pdb
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.dll
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\ref\uri1010.dll
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.pdb
+D:\ExerciciosVisualCSharp\uri1010\obj\Debug\net5.0\uri1010.genruntimeconfig.cache

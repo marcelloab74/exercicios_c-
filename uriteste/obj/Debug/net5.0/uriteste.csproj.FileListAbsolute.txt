@@ -1,0 +1,16 @@
+C:\D\ExerciciosVisualCSharp\uriteste\bin\Debug\net5.0\uriteste.exe
+C:\D\ExerciciosVisualCSharp\uriteste\bin\Debug\net5.0\uriteste.deps.json
+C:\D\ExerciciosVisualCSharp\uriteste\bin\Debug\net5.0\uriteste.runtimeconfig.json
+C:\D\ExerciciosVisualCSharp\uriteste\bin\Debug\net5.0\uriteste.runtimeconfig.dev.json
+C:\D\ExerciciosVisualCSharp\uriteste\bin\Debug\net5.0\uriteste.dll
+C:\D\ExerciciosVisualCSharp\uriteste\bin\Debug\net5.0\ref\uriteste.dll
+C:\D\ExerciciosVisualCSharp\uriteste\bin\Debug\net5.0\uriteste.pdb
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.csproj.AssemblyReference.cache
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.AssemblyInfoInputs.cache
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.AssemblyInfo.cs
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.csproj.CoreCompileInputs.cache
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.dll
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\ref\uriteste.dll
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.pdb
+C:\D\ExerciciosVisualCSharp\uriteste\obj\Debug\net5.0\uriteste.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+CRIANDO UM PROJETO COM NOME DA AULA.
+
+dotnet new console --name uri1014 --output uri1014
+
+PARA ORGANIZAR IDENTAÇÃO (EXTRUTURA DO TEXTO)
+
+Shift + Alt + F
+
+RODAR O PROGRAMA
+
+dotnet run
+
+
+
+
+
