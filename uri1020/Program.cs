@@ -8,7 +8,7 @@ namespace uri1020
         {
            int idadeDias, resto, ano, mes, dia;
 
-           Console.WriteLine("Digite o valor em dias.");
+           Console.WriteLine("Digite o valor em dias");
 
            idadeDias = int.Parse(Console.ReadLine());
 
